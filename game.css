@@ -1,0 +1,62 @@
+body
+{
+    text-align: center;
+    background-position: center;
+    background-size: cover;
+	background-image: url("https://i.pinimg.com/originals/4c/25/7c/4c257c8487bff7cf7412c2587f2bef74.png");
+}
+
+#L {
+    height: 13px;
+    width: 4px;
+}
+
+img{
+    margin-top: 132px;
+    border-radius: 80px;
+	border-style: solid;
+	border-color: black;
+}
+
+#playernameinput1 , #playernameinput2 {
+width: 15%;
+border-radius: 70px;
+}
+
+	.login_div1 , .login_div2
+	{
+		background: white;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+#number
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
+#HULABUTTON
+{
+	height: 3%;
+	width: 15%;
+    border-radius: 70px;
+}
